@@ -1,0 +1,1001 @@
+BookingID,BookingDate,CustomerType,Service,ServiceUsage,Revenue,CustomerSatisfaction,HandledByCallCenter
+BKG1000,2024-06-08,New,Group Travel,4,4874,4,Yes
+BKG1001,2024-06-20,VIP Member,Car Rental,3,3461,5,No
+BKG1002,2024-06-02,Returning,Group Travel,4,3080,1,No
+BKG1003,2024-03-04,Returning,Travel Insurance,4,106,5,Yes
+BKG1004,2024-06-02,New,Flight Booking,2,3367,2,Yes
+BKG1005,2024-06-21,New,Resort Stay,2,1691,5,No
+BKG1006,2024-06-04,New,Travel Insurance,3,3364,4,Yes
+BKG1007,2024-05-14,VIP Member,Vacation Package,1,2706,2,No
+BKG1008,2024-03-02,Returning,Vacation Package,2,3319,1,Yes
+BKG1009,2024-01-06,Returning,Group Travel,1,3373,1,Yes
+BKG1010,2024-02-28,New,Call Center Support,4,1013,3,No
+BKG1011,2024-03-12,VIP Member,Hotel Reservation,2,2111,2,No
+BKG1012,2024-01-04,VIP Member,Call Center Support,3,1542,3,No
+BKG1013,2024-03-14,New,Call Center Support,3,3154,2,Yes
+BKG1014,2024-03-20,New,Resort Stay,3,3646,2,No
+BKG1015,2024-04-29,New,Flight Booking,2,4321,4,No
+BKG1016,2024-01-14,New,Resort Stay,1,3028,3,No
+BKG1017,2024-03-22,Returning,Travel Insurance,4,1929,4,No
+BKG1018,2024-04-25,New,Vacation Package,1,675,2,No
+BKG1019,2024-03-19,New,Resort Stay,1,1029,1,No
+BKG1020,2024-05-25,Returning,Travel Insurance,4,3859,2,Yes
+BKG1021,2024-01-22,New,Resort Stay,4,3799,4,No
+BKG1022,2024-05-28,New,Call Center Support,2,1563,3,Yes
+BKG1023,2024-01-13,New,Car Rental,2,3375,3,No
+BKG1024,2024-03-17,New,Group Travel,2,1154,4,Yes
+BKG1025,2024-01-08,Returning,Hotel Reservation,2,2000,3,No
+BKG1026,2024-04-29,New,Resort Stay,2,1557,5,No
+BKG1027,2024-01-22,Returning,Hotel Reservation,4,1499,1,Yes
+BKG1028,2024-05-31,Returning,Visa Assistance,1,3515,1,Yes
+BKG1029,2024-04-22,New,Resort Stay,2,542,1,Yes
+BKG1030,2024-06-28,Returning,Car Rental,2,3750,3,No
+BKG1031,2024-03-06,New,Hotel Reservation,1,4752,3,No
+BKG1032,2024-02-06,New,Resort Stay,2,1278,2,Yes
+BKG1033,2024-04-12,VIP Member,Flight Booking,1,4558,2,No
+BKG1034,2024-03-08,VIP Member,Group Travel,1,1357,1,Yes
+BKG1035,2024-03-26,VIP Member,Car Rental,4,3734,5,No
+BKG1036,2024-06-12,New,Hotel Reservation,3,1941,2,No
+BKG1037,2024-01-15,New,Car Rental,4,2409,2,Yes
+BKG1038,2024-04-19,Returning,Travel Insurance,3,1010,3,No
+BKG1039,2024-01-24,New,Group Travel,3,4440,5,Yes
+BKG1040,2024-01-17,New,Resort Stay,3,4737,1,Yes
+BKG1041,2024-03-09,New,Resort Stay,2,4109,2,Yes
+BKG1042,2024-03-23,New,Resort Stay,4,2269,5,Yes
+BKG1043,2024-02-15,VIP Member,Group Travel,3,2272,5,No
+BKG1044,2024-04-20,New,Flight Booking,1,223,1,No
+BKG1045,2024-06-29,Returning,Visa Assistance,2,3258,5,No
+BKG1046,2024-04-14,New,Vacation Package,4,885,5,Yes
+BKG1047,2024-01-21,Returning,Call Center Support,3,2516,5,Yes
+BKG1048,2024-06-28,Returning,Hotel Reservation,1,896,2,No
+BKG1049,2024-06-13,New,Flight Booking,4,4272,1,No
+BKG1050,2024-03-31,VIP Member,Hotel Reservation,4,4254,5,Yes
+BKG1051,2024-04-18,Returning,Resort Stay,2,2036,5,No
+BKG1052,2024-05-15,VIP Member,Car Rental,4,2256,2,No
+BKG1053,2024-02-26,VIP Member,Hotel Reservation,2,3907,1,No
+BKG1054,2024-04-02,Returning,Resort Stay,3,1401,3,No
+BKG1055,2024-03-09,VIP Member,Hotel Reservation,2,4263,2,Yes
+BKG1056,2024-05-29,New,Car Rental,1,3240,1,Yes
+BKG1057,2024-05-22,New,Resort Stay,2,3336,5,No
+BKG1058,2024-06-12,New,Visa Assistance,1,2452,1,Yes
+BKG1059,2024-04-12,New,Flight Booking,2,2032,1,No
+BKG1060,2024-05-09,New,Travel Insurance,4,2821,1,No
+BKG1061,2024-01-18,New,Call Center Support,3,464,3,Yes
+BKG1062,2024-03-30,VIP Member,Group Travel,1,2490,1,No
+BKG1063,2024-06-04,New,Call Center Support,2,1046,3,Yes
+BKG1064,2024-06-12,New,Call Center Support,2,1477,5,No
+BKG1065,2024-04-26,Returning,Resort Stay,2,1539,3,No
+BKG1066,2024-03-12,New,Visa Assistance,4,3280,5,No
+BKG1067,2024-04-25,VIP Member,Travel Insurance,4,4957,5,No
+BKG1068,2024-04-24,New,Flight Booking,1,440,3,No
+BKG1069,2024-04-06,VIP Member,Flight Booking,1,3089,2,No
+BKG1070,2024-05-01,Returning,Car Rental,4,482,4,No
+BKG1071,2024-05-29,New,Group Travel,1,1656,1,Yes
+BKG1072,2024-06-30,New,Hotel Reservation,3,399,4,Yes
+BKG1073,2024-02-04,VIP Member,Visa Assistance,3,238,1,Yes
+BKG1074,2024-06-12,Returning,Hotel Reservation,4,458,1,Yes
+BKG1075,2024-06-10,Returning,Travel Insurance,1,1622,5,No
+BKG1076,2024-04-14,Returning,Call Center Support,2,3556,1,No
+BKG1077,2024-03-04,New,Flight Booking,3,1727,1,No
+BKG1078,2024-01-30,New,Travel Insurance,4,1403,3,Yes
+BKG1079,2024-04-20,New,Call Center Support,1,1234,4,No
+BKG1080,2024-05-30,VIP Member,Flight Booking,4,2286,3,Yes
+BKG1081,2024-04-05,Returning,Call Center Support,2,3270,1,No
+BKG1082,2024-05-10,New,Group Travel,3,3935,5,No
+BKG1083,2024-01-01,New,Visa Assistance,4,2251,3,Yes
+BKG1084,2024-02-08,New,Travel Insurance,4,1337,3,Yes
+BKG1085,2024-05-31,New,Travel Insurance,4,3835,2,Yes
+BKG1086,2024-02-04,Returning,Vacation Package,2,2934,1,No
+BKG1087,2024-05-28,Returning,Resort Stay,4,4360,5,No
+BKG1088,2024-01-25,VIP Member,Group Travel,2,1098,3,No
+BKG1089,2024-06-21,New,Group Travel,2,2667,3,Yes
+BKG1090,2024-02-04,New,Hotel Reservation,2,1407,5,No
+BKG1091,2024-05-24,Returning,Call Center Support,3,756,1,No
+BKG1092,2024-04-27,Returning,Resort Stay,3,2760,2,No
+BKG1093,2024-04-04,Returning,Visa Assistance,4,2311,3,Yes
+BKG1094,2024-05-11,Returning,Visa Assistance,4,2009,2,Yes
+BKG1095,2024-04-26,New,Group Travel,3,3830,4,No
+BKG1096,2024-02-02,Returning,Visa Assistance,1,2146,1,Yes
+BKG1097,2024-01-22,New,Vacation Package,3,3262,4,Yes
+BKG1098,2024-05-31,New,Travel Insurance,2,1240,4,Yes
+BKG1099,2024-04-16,New,Car Rental,3,366,4,No
+BKG1100,2024-05-13,New,Hotel Reservation,2,1945,1,No
+BKG1101,2024-02-04,Returning,Call Center Support,4,1808,1,No
+BKG1102,2024-02-24,New,Call Center Support,1,3730,5,No
+BKG1103,2024-05-01,Returning,Flight Booking,4,3311,2,No
+BKG1104,2024-05-28,VIP Member,Car Rental,2,2393,2,Yes
+BKG1105,2024-02-10,New,Group Travel,2,3832,5,No
+BKG1106,2024-04-19,New,Vacation Package,2,3929,5,Yes
+BKG1107,2024-02-24,Returning,Travel Insurance,1,1610,4,No
+BKG1108,2024-03-13,New,Travel Insurance,3,575,5,Yes
+BKG1109,2024-06-25,New,Vacation Package,4,1076,3,Yes
+BKG1110,2024-03-30,New,Resort Stay,4,1307,2,Yes
+BKG1111,2024-02-02,New,Flight Booking,3,2060,5,Yes
+BKG1112,2024-06-15,VIP Member,Call Center Support,4,657,3,Yes
+BKG1113,2024-06-11,VIP Member,Car Rental,1,982,3,Yes
+BKG1114,2024-02-29,Returning,Visa Assistance,4,2294,3,No
+BKG1115,2024-01-08,VIP Member,Flight Booking,2,4861,3,No
+BKG1116,2024-06-10,VIP Member,Car Rental,3,2767,4,No
+BKG1117,2024-06-04,New,Hotel Reservation,1,4777,3,No
+BKG1118,2024-04-09,VIP Member,Hotel Reservation,3,4890,4,No
+BKG1119,2024-02-18,Returning,Flight Booking,1,1710,4,No
+BKG1120,2024-02-13,VIP Member,Group Travel,2,3588,3,No
+BKG1121,2024-04-11,VIP Member,Car Rental,3,2554,2,Yes
+BKG1122,2024-04-29,New,Car Rental,4,4594,3,Yes
+BKG1123,2024-05-15,New,Vacation Package,1,2046,3,No
+BKG1124,2024-02-27,New,Group Travel,3,4910,3,No
+BKG1125,2024-05-08,New,Call Center Support,4,4899,2,No
+BKG1126,2024-03-16,VIP Member,Call Center Support,3,2908,1,Yes
+BKG1127,2024-05-12,VIP Member,Visa Assistance,3,3925,1,Yes
+BKG1128,2024-02-18,New,Travel Insurance,3,3636,4,No
+BKG1129,2024-02-07,Returning,Hotel Reservation,1,3902,4,Yes
+BKG1130,2024-05-23,New,Call Center Support,4,4277,2,No
+BKG1131,2024-05-02,New,Group Travel,2,4799,5,No
+BKG1132,2024-01-01,New,Car Rental,1,2070,1,No
+BKG1133,2024-05-11,New,Call Center Support,1,3922,4,No
+BKG1134,2024-02-01,VIP Member,Car Rental,1,2919,1,No
+BKG1135,2024-05-04,New,Call Center Support,2,1002,2,No
+BKG1136,2024-03-30,Returning,Hotel Reservation,4,464,2,No
+BKG1137,2024-04-11,Returning,Call Center Support,4,4358,5,No
+BKG1138,2024-05-07,New,Group Travel,4,3219,5,Yes
+BKG1139,2024-06-05,VIP Member,Call Center Support,3,2658,2,Yes
+BKG1140,2024-06-21,VIP Member,Travel Insurance,3,1963,4,Yes
+BKG1141,2024-02-05,New,Hotel Reservation,3,215,1,No
+BKG1142,2024-02-08,New,Group Travel,2,2484,3,No
+BKG1143,2024-05-30,New,Vacation Package,3,4035,5,No
+BKG1144,2024-04-27,New,Group Travel,2,2590,3,Yes
+BKG1145,2024-05-31,New,Travel Insurance,4,1042,4,Yes
+BKG1146,2024-06-02,Returning,Hotel Reservation,3,1824,5,No
+BKG1147,2024-01-03,Returning,Vacation Package,3,2434,3,Yes
+BKG1148,2024-03-06,New,Travel Insurance,1,2867,4,No
+BKG1149,2024-03-24,New,Travel Insurance,2,1237,1,No
+BKG1150,2024-06-25,VIP Member,Flight Booking,4,2627,4,No
+BKG1151,2024-03-18,New,Hotel Reservation,1,4217,5,Yes
+BKG1152,2024-02-14,New,Group Travel,1,3520,2,Yes
+BKG1153,2024-05-19,New,Car Rental,4,4878,1,Yes
+BKG1154,2024-03-16,VIP Member,Car Rental,1,4006,3,No
+BKG1155,2024-02-17,New,Group Travel,2,3737,5,No
+BKG1156,2024-02-12,Returning,Group Travel,2,3053,2,Yes
+BKG1157,2024-04-21,Returning,Hotel Reservation,3,2467,4,No
+BKG1158,2024-03-24,New,Group Travel,1,4321,2,No
+BKG1159,2024-03-22,Returning,Flight Booking,3,376,5,Yes
+BKG1160,2024-04-24,New,Vacation Package,1,2099,5,No
+BKG1161,2024-01-28,Returning,Group Travel,2,1327,2,No
+BKG1162,2024-05-19,Returning,Car Rental,2,3852,4,Yes
+BKG1163,2024-02-25,Returning,Group Travel,2,3835,2,Yes
+BKG1164,2024-05-19,New,Flight Booking,1,795,5,No
+BKG1165,2024-04-10,VIP Member,Call Center Support,2,1409,5,No
+BKG1166,2024-01-18,New,Call Center Support,1,4252,3,No
+BKG1167,2024-01-25,New,Travel Insurance,3,3334,3,No
+BKG1168,2024-05-24,New,Visa Assistance,1,4214,1,No
+BKG1169,2024-05-18,Returning,Vacation Package,3,2411,5,Yes
+BKG1170,2024-01-23,Returning,Resort Stay,1,2941,3,No
+BKG1171,2024-01-24,New,Travel Insurance,3,4308,2,No
+BKG1172,2024-03-02,Returning,Call Center Support,2,3659,4,Yes
+BKG1173,2024-02-25,New,Car Rental,3,3498,2,No
+BKG1174,2024-02-04,Returning,Resort Stay,2,641,4,No
+BKG1175,2024-06-08,New,Travel Insurance,2,2794,3,Yes
+BKG1176,2024-05-08,Returning,Resort Stay,3,4774,1,No
+BKG1177,2024-06-02,New,Hotel Reservation,1,1188,2,Yes
+BKG1178,2024-01-07,VIP Member,Visa Assistance,1,3463,2,Yes
+BKG1179,2024-03-01,New,Hotel Reservation,4,124,2,Yes
+BKG1180,2024-06-06,New,Resort Stay,1,1672,4,No
+BKG1181,2024-04-30,New,Hotel Reservation,4,3058,3,No
+BKG1182,2024-03-21,VIP Member,Flight Booking,1,4336,2,Yes
+BKG1183,2024-06-29,VIP Member,Call Center Support,1,1867,2,No
+BKG1184,2024-01-16,New,Flight Booking,2,4843,1,Yes
+BKG1185,2024-05-27,Returning,Group Travel,4,2335,1,No
+BKG1186,2024-04-18,VIP Member,Hotel Reservation,1,300,3,No
+BKG1187,2024-03-17,Returning,Group Travel,4,3298,3,No
+BKG1188,2024-01-13,Returning,Car Rental,2,356,5,No
+BKG1189,2024-06-08,New,Vacation Package,2,3847,1,Yes
+BKG1190,2024-04-15,New,Car Rental,4,4742,5,Yes
+BKG1191,2024-06-12,VIP Member,Resort Stay,2,2341,4,No
+BKG1192,2024-02-14,VIP Member,Call Center Support,3,3275,5,No
+BKG1193,2024-06-10,Returning,Hotel Reservation,3,3706,2,Yes
+BKG1194,2024-03-06,New,Travel Insurance,2,3436,5,Yes
+BKG1195,2024-04-17,New,Vacation Package,3,4997,3,Yes
+BKG1196,2024-03-27,Returning,Visa Assistance,1,513,4,No
+BKG1197,2024-01-06,VIP Member,Visa Assistance,4,2114,2,Yes
+BKG1198,2024-06-13,VIP Member,Visa Assistance,1,1481,5,No
+BKG1199,2024-03-22,Returning,Hotel Reservation,4,1198,4,No
+BKG1200,2024-03-01,Returning,Visa Assistance,2,3526,4,No
+BKG1201,2024-02-22,New,Flight Booking,1,3755,2,Yes
+BKG1202,2024-04-23,New,Vacation Package,2,1009,5,No
+BKG1203,2024-02-17,VIP Member,Flight Booking,2,287,4,Yes
+BKG1204,2024-05-11,Returning,Vacation Package,4,4144,4,No
+BKG1205,2024-06-21,New,Flight Booking,4,3856,1,No
+BKG1206,2024-04-13,New,Vacation Package,4,2115,4,Yes
+BKG1207,2024-04-28,Returning,Group Travel,1,2192,1,No
+BKG1208,2024-03-07,New,Hotel Reservation,3,3744,5,No
+BKG1209,2024-03-12,New,Hotel Reservation,4,2230,5,No
+BKG1210,2024-02-01,Returning,Visa Assistance,4,457,5,Yes
+BKG1211,2024-04-08,Returning,Car Rental,1,2522,3,No
+BKG1212,2024-02-17,Returning,Visa Assistance,4,4357,5,No
+BKG1213,2024-04-17,New,Resort Stay,1,4645,4,No
+BKG1214,2024-01-08,Returning,Flight Booking,2,1597,2,No
+BKG1215,2024-03-08,New,Vacation Package,4,2258,1,Yes
+BKG1216,2024-06-10,New,Car Rental,4,2655,3,No
+BKG1217,2024-01-16,Returning,Resort Stay,2,2442,5,No
+BKG1218,2024-05-22,Returning,Hotel Reservation,2,3051,5,No
+BKG1219,2024-05-06,VIP Member,Hotel Reservation,2,1338,2,No
+BKG1220,2024-06-25,Returning,Visa Assistance,4,1073,2,Yes
+BKG1221,2024-01-06,Returning,Flight Booking,3,4827,3,Yes
+BKG1222,2024-03-20,New,Car Rental,3,4065,1,Yes
+BKG1223,2024-07-01,New,Call Center Support,3,1150,5,Yes
+BKG1224,2024-04-01,New,Resort Stay,4,3801,3,No
+BKG1225,2024-05-03,New,Resort Stay,2,2880,4,Yes
+BKG1226,2024-06-17,VIP Member,Visa Assistance,4,1688,4,Yes
+BKG1227,2024-05-06,New,Hotel Reservation,2,3978,3,No
+BKG1228,2024-01-11,VIP Member,Visa Assistance,4,2468,5,No
+BKG1229,2024-02-05,Returning,Vacation Package,4,536,3,No
+BKG1230,2024-06-26,Returning,Car Rental,2,2928,5,No
+BKG1231,2024-03-22,Returning,Flight Booking,3,1656,2,Yes
+BKG1232,2024-06-18,Returning,Group Travel,2,3958,3,No
+BKG1233,2024-06-10,New,Travel Insurance,1,1404,5,No
+BKG1234,2024-03-24,New,Travel Insurance,1,2484,3,Yes
+BKG1235,2024-06-03,Returning,Visa Assistance,2,282,3,No
+BKG1236,2024-01-19,New,Vacation Package,4,1689,5,No
+BKG1237,2024-01-20,New,Car Rental,1,1687,5,Yes
+BKG1238,2024-04-26,Returning,Call Center Support,1,759,1,Yes
+BKG1239,2024-04-07,New,Travel Insurance,4,259,3,Yes
+BKG1240,2024-02-19,VIP Member,Car Rental,4,4053,4,Yes
+BKG1241,2024-03-08,VIP Member,Flight Booking,3,1111,3,No
+BKG1242,2024-04-28,VIP Member,Vacation Package,4,152,3,No
+BKG1243,2024-03-26,New,Hotel Reservation,2,2407,5,Yes
+BKG1244,2024-02-23,New,Car Rental,2,1328,3,No
+BKG1245,2024-04-12,VIP Member,Flight Booking,3,1135,3,No
+BKG1246,2024-02-21,New,Call Center Support,1,3802,4,No
+BKG1247,2024-02-22,VIP Member,Group Travel,1,4145,5,No
+BKG1248,2024-04-17,VIP Member,Hotel Reservation,4,4549,3,Yes
+BKG1249,2024-04-08,VIP Member,Group Travel,2,1364,2,No
+BKG1250,2024-01-22,New,Call Center Support,1,1984,1,No
+BKG1251,2024-05-16,New,Flight Booking,3,1909,4,No
+BKG1252,2024-02-03,VIP Member,Travel Insurance,3,3267,3,No
+BKG1253,2024-02-12,New,Group Travel,2,3897,2,Yes
+BKG1254,2024-04-26,New,Hotel Reservation,3,2441,3,No
+BKG1255,2024-02-28,Returning,Visa Assistance,3,3514,3,Yes
+BKG1256,2024-05-07,VIP Member,Resort Stay,2,917,5,No
+BKG1257,2024-05-15,Returning,Car Rental,4,2537,5,No
+BKG1258,2024-02-02,Returning,Travel Insurance,4,988,5,Yes
+BKG1259,2024-04-27,New,Group Travel,3,767,2,No
+BKG1260,2024-02-24,Returning,Car Rental,4,4828,3,Yes
+BKG1261,2024-05-16,VIP Member,Visa Assistance,4,2724,1,No
+BKG1262,2024-01-18,New,Call Center Support,3,4332,4,No
+BKG1263,2024-04-30,Returning,Resort Stay,4,4623,5,No
+BKG1264,2024-01-02,VIP Member,Flight Booking,3,918,5,No
+BKG1265,2024-03-01,Returning,Visa Assistance,1,2288,3,No
+BKG1266,2024-05-02,Returning,Visa Assistance,2,1206,3,No
+BKG1267,2024-05-26,Returning,Call Center Support,2,2324,2,No
+BKG1268,2024-05-15,New,Vacation Package,4,297,2,No
+BKG1269,2024-06-24,New,Call Center Support,4,2771,5,Yes
+BKG1270,2024-03-11,VIP Member,Vacation Package,4,3592,3,No
+BKG1271,2024-07-01,VIP Member,Vacation Package,2,2548,1,Yes
+BKG1272,2024-05-26,VIP Member,Travel Insurance,1,570,4,No
+BKG1273,2024-07-01,VIP Member,Travel Insurance,1,2048,3,Yes
+BKG1274,2024-03-08,Returning,Hotel Reservation,2,3999,3,Yes
+BKG1275,2024-06-25,Returning,Group Travel,1,2110,2,No
+BKG1276,2024-05-27,Returning,Group Travel,2,3900,4,No
+BKG1277,2024-03-26,Returning,Flight Booking,1,4218,5,Yes
+BKG1278,2024-05-27,Returning,Group Travel,3,3896,3,Yes
+BKG1279,2024-02-15,Returning,Travel Insurance,3,4088,5,No
+BKG1280,2024-05-17,VIP Member,Hotel Reservation,2,334,3,No
+BKG1281,2024-05-07,New,Hotel Reservation,1,1028,5,Yes
+BKG1282,2024-02-17,New,Vacation Package,4,3707,4,Yes
+BKG1283,2024-04-20,New,Call Center Support,1,622,2,No
+BKG1284,2024-05-21,Returning,Flight Booking,3,3623,4,Yes
+BKG1285,2024-01-29,New,Vacation Package,3,4626,1,No
+BKG1286,2024-04-25,New,Call Center Support,1,4988,2,No
+BKG1287,2024-06-22,Returning,Group Travel,1,1729,4,No
+BKG1288,2024-04-29,New,Vacation Package,4,4728,1,Yes
+BKG1289,2024-05-03,Returning,Car Rental,4,1416,3,No
+BKG1290,2024-02-06,New,Group Travel,1,2957,3,No
+BKG1291,2024-04-26,New,Call Center Support,1,1224,5,No
+BKG1292,2024-04-22,VIP Member,Flight Booking,1,2687,2,No
+BKG1293,2024-05-23,New,Call Center Support,1,1123,3,No
+BKG1294,2024-03-20,New,Vacation Package,2,1478,2,No
+BKG1295,2024-05-01,Returning,Vacation Package,1,3474,3,No
+BKG1296,2024-01-04,Returning,Visa Assistance,4,1619,5,No
+BKG1297,2024-04-04,New,Flight Booking,3,326,4,No
+BKG1298,2024-01-28,Returning,Group Travel,2,991,5,No
+BKG1299,2024-05-31,New,Hotel Reservation,1,4172,1,Yes
+BKG1300,2024-05-21,New,Flight Booking,3,2357,3,No
+BKG1301,2024-03-08,Returning,Hotel Reservation,2,2888,1,No
+BKG1302,2024-02-15,Returning,Flight Booking,3,496,1,Yes
+BKG1303,2024-01-20,Returning,Flight Booking,1,2178,2,Yes
+BKG1304,2024-02-29,Returning,Call Center Support,1,4844,3,No
+BKG1305,2024-03-19,VIP Member,Flight Booking,4,4524,1,No
+BKG1306,2024-05-01,Returning,Visa Assistance,1,3337,4,No
+BKG1307,2024-03-09,New,Vacation Package,1,3993,1,Yes
+BKG1308,2024-02-28,Returning,Resort Stay,2,2105,4,No
+BKG1309,2024-01-26,New,Hotel Reservation,4,2116,2,Yes
+BKG1310,2024-03-06,New,Vacation Package,2,3271,1,No
+BKG1311,2024-01-14,New,Resort Stay,3,2768,5,Yes
+BKG1312,2024-01-09,New,Hotel Reservation,1,1978,2,Yes
+BKG1313,2024-05-22,VIP Member,Hotel Reservation,3,1296,4,Yes
+BKG1314,2024-06-18,VIP Member,Resort Stay,2,1872,2,Yes
+BKG1315,2024-01-16,Returning,Flight Booking,1,261,1,Yes
+BKG1316,2024-04-26,New,Group Travel,1,4076,3,Yes
+BKG1317,2024-05-07,New,Car Rental,2,1851,3,No
+BKG1318,2024-01-14,New,Vacation Package,2,875,4,No
+BKG1319,2024-04-09,New,Call Center Support,2,1039,4,Yes
+BKG1320,2024-05-26,Returning,Vacation Package,2,3320,3,No
+BKG1321,2024-03-07,Returning,Call Center Support,2,639,4,Yes
+BKG1322,2024-02-07,Returning,Resort Stay,1,1561,2,No
+BKG1323,2024-06-24,New,Call Center Support,2,455,5,Yes
+BKG1324,2024-04-10,VIP Member,Hotel Reservation,1,3704,5,Yes
+BKG1325,2024-02-20,Returning,Group Travel,1,3423,2,No
+BKG1326,2024-05-30,Returning,Group Travel,2,334,5,No
+BKG1327,2024-04-23,Returning,Hotel Reservation,2,1648,1,No
+BKG1328,2024-02-23,New,Visa Assistance,4,2196,2,No
+BKG1329,2024-05-16,New,Resort Stay,1,4313,4,No
+BKG1330,2024-03-31,New,Visa Assistance,2,2201,2,Yes
+BKG1331,2024-03-10,Returning,Visa Assistance,2,1773,3,Yes
+BKG1332,2024-05-22,New,Vacation Package,2,2200,4,Yes
+BKG1333,2024-01-14,New,Vacation Package,4,3757,3,Yes
+BKG1334,2024-01-05,New,Car Rental,4,4753,4,No
+BKG1335,2024-03-30,New,Call Center Support,3,3696,5,No
+BKG1336,2024-02-08,VIP Member,Hotel Reservation,1,3848,2,Yes
+BKG1337,2024-06-14,Returning,Vacation Package,3,3273,1,No
+BKG1338,2024-02-03,New,Resort Stay,2,1915,4,No
+BKG1339,2024-03-05,New,Call Center Support,4,3941,4,Yes
+BKG1340,2024-02-16,New,Car Rental,4,2105,3,Yes
+BKG1341,2024-06-23,New,Car Rental,3,4593,5,Yes
+BKG1342,2024-06-26,New,Resort Stay,4,774,3,Yes
+BKG1343,2024-05-04,New,Visa Assistance,2,486,3,Yes
+BKG1344,2024-04-23,New,Group Travel,4,2258,5,No
+BKG1345,2024-03-27,Returning,Resort Stay,3,2761,1,Yes
+BKG1346,2024-03-19,Returning,Travel Insurance,2,2164,3,Yes
+BKG1347,2024-01-06,New,Resort Stay,3,3951,3,No
+BKG1348,2024-03-08,New,Car Rental,4,3353,4,No
+BKG1349,2024-05-26,Returning,Hotel Reservation,3,4736,5,No
+BKG1350,2024-01-21,Returning,Vacation Package,3,4366,2,Yes
+BKG1351,2024-06-17,VIP Member,Hotel Reservation,1,839,1,Yes
+BKG1352,2024-06-08,Returning,Car Rental,4,1501,1,No
+BKG1353,2024-03-29,New,Vacation Package,4,3359,5,Yes
+BKG1354,2024-03-25,New,Travel Insurance,3,2377,4,Yes
+BKG1355,2024-06-11,Returning,Group Travel,1,4004,4,No
+BKG1356,2024-05-25,New,Call Center Support,4,4023,5,No
+BKG1357,2024-02-06,Returning,Car Rental,2,4314,4,No
+BKG1358,2024-05-11,VIP Member,Car Rental,3,3327,1,No
+BKG1359,2024-05-23,Returning,Car Rental,4,2931,1,No
+BKG1360,2024-04-20,New,Vacation Package,2,3858,2,Yes
+BKG1361,2024-02-03,Returning,Flight Booking,4,2612,5,Yes
+BKG1362,2024-03-10,New,Resort Stay,2,2251,3,Yes
+BKG1363,2024-03-24,Returning,Flight Booking,3,3775,3,Yes
+BKG1364,2024-04-07,VIP Member,Travel Insurance,4,2845,2,No
+BKG1365,2024-04-08,New,Group Travel,4,3966,2,No
+BKG1366,2024-06-16,VIP Member,Visa Assistance,1,3864,4,No
+BKG1367,2024-02-29,VIP Member,Travel Insurance,3,2322,2,Yes
+BKG1368,2024-06-26,New,Visa Assistance,2,2892,2,Yes
+BKG1369,2024-02-26,New,Visa Assistance,4,1797,3,Yes
+BKG1370,2024-04-15,New,Group Travel,4,3562,4,Yes
+BKG1371,2024-03-20,New,Hotel Reservation,2,4163,2,Yes
+BKG1372,2024-02-19,New,Flight Booking,3,1624,2,No
+BKG1373,2024-01-27,Returning,Car Rental,1,4860,4,No
+BKG1374,2024-01-05,New,Call Center Support,1,132,5,No
+BKG1375,2024-03-04,New,Visa Assistance,4,4125,4,No
+BKG1376,2024-05-06,VIP Member,Travel Insurance,2,2666,3,No
+BKG1377,2024-04-13,New,Hotel Reservation,4,2903,5,Yes
+BKG1378,2024-04-25,VIP Member,Visa Assistance,2,3996,1,Yes
+BKG1379,2024-05-01,New,Hotel Reservation,1,3809,4,Yes
+BKG1380,2024-02-20,New,Hotel Reservation,3,819,3,No
+BKG1381,2024-03-22,Returning,Visa Assistance,2,4679,5,No
+BKG1382,2024-01-03,Returning,Vacation Package,1,1072,4,Yes
+BKG1383,2024-03-09,VIP Member,Resort Stay,4,3818,2,No
+BKG1384,2024-04-21,Returning,Car Rental,2,4502,4,No
+BKG1385,2024-05-28,VIP Member,Car Rental,3,4652,1,Yes
+BKG1386,2024-06-13,New,Vacation Package,4,2307,4,Yes
+BKG1387,2024-04-18,New,Car Rental,4,4526,5,No
+BKG1388,2024-03-04,Returning,Hotel Reservation,1,4420,5,No
+BKG1389,2024-04-28,VIP Member,Group Travel,2,3130,4,Yes
+BKG1390,2024-01-26,VIP Member,Travel Insurance,4,3675,5,No
+BKG1391,2024-03-20,New,Flight Booking,3,3216,2,Yes
+BKG1392,2024-05-01,New,Car Rental,2,3385,4,No
+BKG1393,2024-02-26,Returning,Group Travel,3,743,2,No
+BKG1394,2024-01-29,New,Visa Assistance,4,4811,2,No
+BKG1395,2024-01-09,VIP Member,Resort Stay,3,294,3,No
+BKG1396,2024-03-29,VIP Member,Hotel Reservation,1,4096,4,No
+BKG1397,2024-01-02,New,Resort Stay,3,588,5,No
+BKG1398,2024-02-29,Returning,Travel Insurance,2,2304,2,Yes
+BKG1399,2024-04-05,Returning,Travel Insurance,3,2757,3,No
+BKG1400,2024-04-07,New,Vacation Package,3,3376,4,Yes
+BKG1401,2024-05-03,VIP Member,Call Center Support,1,1202,4,No
+BKG1402,2024-04-07,Returning,Vacation Package,3,1341,1,No
+BKG1403,2024-01-09,VIP Member,Group Travel,3,615,1,No
+BKG1404,2024-06-10,New,Resort Stay,4,492,2,No
+BKG1405,2024-04-28,VIP Member,Call Center Support,4,730,1,No
+BKG1406,2024-03-18,New,Visa Assistance,2,3816,2,Yes
+BKG1407,2024-02-18,New,Hotel Reservation,4,1947,5,No
+BKG1408,2024-06-22,VIP Member,Resort Stay,4,2755,2,Yes
+BKG1409,2024-06-03,New,Vacation Package,4,1079,1,Yes
+BKG1410,2024-04-14,New,Flight Booking,4,4629,5,Yes
+BKG1411,2024-01-29,VIP Member,Call Center Support,1,3502,1,No
+BKG1412,2024-03-22,VIP Member,Call Center Support,4,3971,2,No
+BKG1413,2024-03-23,Returning,Hotel Reservation,1,377,3,No
+BKG1414,2024-05-13,Returning,Car Rental,1,332,4,No
+BKG1415,2024-05-24,New,Travel Insurance,4,1652,1,Yes
+BKG1416,2024-01-03,New,Travel Insurance,3,3370,2,Yes
+BKG1417,2024-01-14,New,Flight Booking,1,2509,5,No
+BKG1418,2024-04-14,Returning,Group Travel,3,3612,1,No
+BKG1419,2024-03-14,Returning,Group Travel,3,125,1,No
+BKG1420,2024-04-09,Returning,Visa Assistance,4,560,4,Yes
+BKG1421,2024-02-15,Returning,Resort Stay,2,3864,2,No
+BKG1422,2024-03-22,New,Car Rental,4,3531,3,No
+BKG1423,2024-01-18,New,Vacation Package,2,3583,5,Yes
+BKG1424,2024-05-18,New,Call Center Support,2,2094,2,No
+BKG1425,2024-02-27,Returning,Flight Booking,4,590,5,No
+BKG1426,2024-05-20,New,Travel Insurance,4,1172,1,No
+BKG1427,2024-01-26,VIP Member,Visa Assistance,2,3273,4,Yes
+BKG1428,2024-03-01,New,Group Travel,4,315,4,No
+BKG1429,2024-01-01,New,Flight Booking,2,1823,3,Yes
+BKG1430,2024-02-12,New,Call Center Support,3,1692,4,Yes
+BKG1431,2024-01-11,Returning,Vacation Package,4,2706,1,No
+BKG1432,2024-04-23,Returning,Visa Assistance,3,258,3,No
+BKG1433,2024-03-16,New,Call Center Support,1,4881,2,Yes
+BKG1434,2024-04-16,New,Travel Insurance,3,3413,4,No
+BKG1435,2024-05-12,Returning,Travel Insurance,3,2941,3,No
+BKG1436,2024-05-21,New,Travel Insurance,2,1876,1,No
+BKG1437,2024-06-11,VIP Member,Flight Booking,3,2152,5,No
+BKG1438,2024-05-03,Returning,Flight Booking,4,2395,5,No
+BKG1439,2024-06-09,New,Group Travel,2,1796,1,No
+BKG1440,2024-04-27,New,Group Travel,1,3093,1,Yes
+BKG1441,2024-05-01,VIP Member,Vacation Package,4,2569,5,Yes
+BKG1442,2024-03-22,New,Visa Assistance,1,2046,3,No
+BKG1443,2024-03-12,New,Hotel Reservation,3,3909,5,No
+BKG1444,2024-02-29,VIP Member,Hotel Reservation,4,2883,1,No
+BKG1445,2024-04-11,VIP Member,Call Center Support,4,3744,4,Yes
+BKG1446,2024-06-04,VIP Member,Travel Insurance,1,2600,2,Yes
+BKG1447,2024-03-18,Returning,Visa Assistance,4,3745,4,No
+BKG1448,2024-04-17,New,Flight Booking,4,2745,4,Yes
+BKG1449,2024-06-01,New,Resort Stay,4,2449,1,No
+BKG1450,2024-03-25,Returning,Car Rental,3,2032,5,Yes
+BKG1451,2024-06-28,Returning,Vacation Package,1,3394,3,No
+BKG1452,2024-02-06,New,Travel Insurance,4,1857,4,No
+BKG1453,2024-01-04,VIP Member,Travel Insurance,2,1216,5,Yes
+BKG1454,2024-01-09,New,Travel Insurance,2,2667,3,No
+BKG1455,2024-06-14,New,Flight Booking,2,3599,4,Yes
+BKG1456,2024-05-27,New,Flight Booking,2,592,3,No
+BKG1457,2024-01-23,New,Car Rental,3,3406,5,No
+BKG1458,2024-06-16,New,Visa Assistance,4,719,2,No
+BKG1459,2024-02-12,New,Travel Insurance,1,3332,5,No
+BKG1460,2024-02-26,New,Hotel Reservation,4,3923,1,No
+BKG1461,2024-03-24,Returning,Group Travel,3,2480,3,Yes
+BKG1462,2024-06-25,Returning,Hotel Reservation,2,1646,2,Yes
+BKG1463,2024-01-12,Returning,Call Center Support,3,3663,3,No
+BKG1464,2024-01-30,VIP Member,Hotel Reservation,4,1705,3,No
+BKG1465,2024-01-21,New,Call Center Support,1,3852,4,No
+BKG1466,2024-01-12,New,Resort Stay,3,4775,1,No
+BKG1467,2024-01-07,VIP Member,Group Travel,1,1990,3,No
+BKG1468,2024-03-29,New,Hotel Reservation,3,1375,5,No
+BKG1469,2024-04-03,VIP Member,Resort Stay,1,2843,5,No
+BKG1470,2024-06-02,New,Vacation Package,1,2593,4,No
+BKG1471,2024-01-03,VIP Member,Visa Assistance,2,456,1,No
+BKG1472,2024-04-24,New,Resort Stay,1,969,1,Yes
+BKG1473,2024-03-27,VIP Member,Visa Assistance,2,985,5,Yes
+BKG1474,2024-02-08,Returning,Hotel Reservation,4,2101,2,Yes
+BKG1475,2024-03-18,VIP Member,Resort Stay,4,1383,4,Yes
+BKG1476,2024-03-17,New,Group Travel,2,719,4,Yes
+BKG1477,2024-04-13,Returning,Hotel Reservation,2,982,5,No
+BKG1478,2024-06-10,VIP Member,Travel Insurance,3,896,5,No
+BKG1479,2024-01-17,Returning,Flight Booking,3,3742,2,No
+BKG1480,2024-04-26,Returning,Resort Stay,3,3525,2,No
+BKG1481,2024-04-22,Returning,Group Travel,4,1396,1,Yes
+BKG1482,2024-01-07,New,Vacation Package,3,4814,4,Yes
+BKG1483,2024-03-21,Returning,Travel Insurance,1,344,4,Yes
+BKG1484,2024-05-23,Returning,Vacation Package,1,2995,5,No
+BKG1485,2024-02-16,VIP Member,Hotel Reservation,3,1029,1,Yes
+BKG1486,2024-03-02,New,Flight Booking,1,619,4,Yes
+BKG1487,2024-03-31,New,Resort Stay,4,3312,1,No
+BKG1488,2024-01-12,VIP Member,Resort Stay,1,2509,1,No
+BKG1489,2024-04-27,VIP Member,Hotel Reservation,4,107,5,Yes
+BKG1490,2024-03-22,New,Hotel Reservation,2,2625,1,No
+BKG1491,2024-06-01,Returning,Flight Booking,2,3523,2,No
+BKG1492,2024-02-03,New,Group Travel,2,2119,2,No
+BKG1493,2024-06-29,New,Group Travel,2,4690,3,No
+BKG1494,2024-01-08,New,Flight Booking,1,4382,5,Yes
+BKG1495,2024-01-08,New,Group Travel,3,3767,3,Yes
+BKG1496,2024-07-01,Returning,Call Center Support,1,3771,2,No
+BKG1497,2024-01-09,New,Visa Assistance,4,2901,3,No
+BKG1498,2024-06-16,VIP Member,Flight Booking,1,185,5,No
+BKG1499,2024-01-06,VIP Member,Flight Booking,1,3215,5,No
+BKG1500,2024-01-16,Returning,Car Rental,4,4332,1,No
+BKG1501,2024-06-19,Returning,Travel Insurance,2,2568,4,No
+BKG1502,2024-04-11,New,Travel Insurance,2,3719,1,No
+BKG1503,2024-06-07,VIP Member,Call Center Support,2,1736,5,No
+BKG1504,2024-01-10,Returning,Hotel Reservation,3,3683,2,Yes
+BKG1505,2024-06-23,New,Hotel Reservation,4,4109,2,No
+BKG1506,2024-03-15,VIP Member,Vacation Package,4,3426,1,Yes
+BKG1507,2024-01-25,VIP Member,Call Center Support,1,2318,5,Yes
+BKG1508,2024-03-04,VIP Member,Flight Booking,3,2317,2,No
+BKG1509,2024-06-04,Returning,Call Center Support,2,2469,5,Yes
+BKG1510,2024-02-21,Returning,Call Center Support,3,3738,2,Yes
+BKG1511,2024-02-28,New,Call Center Support,4,2603,5,Yes
+BKG1512,2024-03-11,VIP Member,Travel Insurance,4,1043,3,No
+BKG1513,2024-01-14,VIP Member,Call Center Support,1,2937,5,No
+BKG1514,2024-03-14,New,Visa Assistance,1,2760,5,No
+BKG1515,2024-03-10,New,Hotel Reservation,4,3036,1,Yes
+BKG1516,2024-01-31,New,Vacation Package,2,4544,3,No
+BKG1517,2024-01-09,VIP Member,Visa Assistance,2,4047,4,No
+BKG1518,2024-03-02,VIP Member,Vacation Package,3,1776,1,Yes
+BKG1519,2024-05-31,New,Car Rental,4,1296,4,No
+BKG1520,2024-06-09,Returning,Vacation Package,4,4205,2,Yes
+BKG1521,2024-02-06,New,Hotel Reservation,2,2887,4,No
+BKG1522,2024-04-29,VIP Member,Hotel Reservation,2,1561,5,No
+BKG1523,2024-05-16,VIP Member,Call Center Support,4,3418,4,No
+BKG1524,2024-05-11,VIP Member,Resort Stay,1,766,1,Yes
+BKG1525,2024-04-07,New,Car Rental,4,2276,1,No
+BKG1526,2024-03-08,New,Flight Booking,4,3843,4,No
+BKG1527,2024-06-27,New,Group Travel,2,700,1,No
+BKG1528,2024-01-29,New,Vacation Package,2,2752,1,No
+BKG1529,2024-04-05,VIP Member,Resort Stay,1,4522,4,Yes
+BKG1530,2024-03-01,VIP Member,Call Center Support,1,3924,3,Yes
+BKG1531,2024-06-28,VIP Member,Travel Insurance,3,4006,3,No
+BKG1532,2024-02-12,VIP Member,Flight Booking,4,1079,2,No
+BKG1533,2024-04-23,Returning,Resort Stay,2,2551,1,No
+BKG1534,2024-03-19,Returning,Travel Insurance,1,728,4,Yes
+BKG1535,2024-01-17,VIP Member,Car Rental,3,1729,1,No
+BKG1536,2024-04-26,VIP Member,Call Center Support,3,3796,5,Yes
+BKG1537,2024-04-04,New,Flight Booking,2,3530,1,No
+BKG1538,2024-05-16,New,Flight Booking,2,3774,1,No
+BKG1539,2024-04-12,New,Flight Booking,3,4029,3,No
+BKG1540,2024-06-19,VIP Member,Car Rental,1,2865,4,Yes
+BKG1541,2024-05-04,Returning,Vacation Package,3,4469,1,No
+BKG1542,2024-02-22,New,Car Rental,4,4880,3,Yes
+BKG1543,2024-01-24,Returning,Group Travel,4,215,2,Yes
+BKG1544,2024-04-26,Returning,Hotel Reservation,2,2103,3,No
+BKG1545,2024-03-11,New,Call Center Support,1,792,3,No
+BKG1546,2024-05-14,New,Car Rental,1,3262,3,Yes
+BKG1547,2024-06-23,Returning,Travel Insurance,4,1205,1,No
+BKG1548,2024-03-10,Returning,Group Travel,3,3108,1,No
+BKG1549,2024-04-23,Returning,Hotel Reservation,2,2261,2,No
+BKG1550,2024-03-06,Returning,Vacation Package,3,253,5,Yes
+BKG1551,2024-06-05,VIP Member,Travel Insurance,3,3799,5,No
+BKG1552,2024-06-29,Returning,Call Center Support,3,4510,5,Yes
+BKG1553,2024-04-01,Returning,Travel Insurance,1,3886,2,Yes
+BKG1554,2024-03-07,VIP Member,Hotel Reservation,4,1164,5,Yes
+BKG1555,2024-05-05,New,Travel Insurance,1,4300,5,No
+BKG1556,2024-06-28,New,Visa Assistance,4,2013,3,Yes
+BKG1557,2024-02-12,New,Resort Stay,2,1316,1,Yes
+BKG1558,2024-04-19,Returning,Vacation Package,2,2501,1,Yes
+BKG1559,2024-04-30,Returning,Hotel Reservation,3,1872,3,No
+BKG1560,2024-05-28,Returning,Travel Insurance,4,2060,3,No
+BKG1561,2024-03-13,New,Resort Stay,4,2880,3,Yes
+BKG1562,2024-01-05,New,Resort Stay,4,4904,1,No
+BKG1563,2024-02-18,New,Travel Insurance,3,4846,5,No
+BKG1564,2024-05-08,New,Call Center Support,3,2971,3,No
+BKG1565,2024-06-20,Returning,Visa Assistance,2,760,2,Yes
+BKG1566,2024-02-18,New,Car Rental,1,2735,3,No
+BKG1567,2024-04-14,New,Visa Assistance,4,2429,4,No
+BKG1568,2024-01-10,VIP Member,Travel Insurance,4,4054,3,No
+BKG1569,2024-06-07,New,Vacation Package,1,2550,1,Yes
+BKG1570,2024-04-29,Returning,Car Rental,4,1232,3,No
+BKG1571,2024-05-01,Returning,Hotel Reservation,3,799,4,No
+BKG1572,2024-06-26,New,Visa Assistance,3,2138,2,No
+BKG1573,2024-04-22,Returning,Travel Insurance,4,4747,5,Yes
+BKG1574,2024-06-04,VIP Member,Visa Assistance,3,4600,3,Yes
+BKG1575,2024-03-31,VIP Member,Car Rental,3,4657,4,No
+BKG1576,2024-05-05,New,Group Travel,4,2279,4,No
+BKG1577,2024-01-29,VIP Member,Visa Assistance,2,2938,2,Yes
+BKG1578,2024-01-26,New,Hotel Reservation,1,973,1,No
+BKG1579,2024-02-26,New,Hotel Reservation,3,183,3,Yes
+BKG1580,2024-04-14,New,Flight Booking,2,1522,4,No
+BKG1581,2024-06-26,VIP Member,Visa Assistance,3,2775,2,No
+BKG1582,2024-06-15,New,Call Center Support,3,3280,5,No
+BKG1583,2024-06-28,New,Resort Stay,1,4416,4,No
+BKG1584,2024-01-02,Returning,Resort Stay,3,4075,2,Yes
+BKG1585,2024-06-02,New,Resort Stay,1,1491,1,No
+BKG1586,2024-04-09,New,Group Travel,1,3318,1,Yes
+BKG1587,2024-02-26,New,Flight Booking,1,4307,4,No
+BKG1588,2024-05-31,New,Group Travel,2,714,4,No
+BKG1589,2024-06-17,New,Visa Assistance,4,3071,3,No
+BKG1590,2024-04-02,New,Visa Assistance,2,3665,2,Yes
+BKG1591,2024-03-26,Returning,Visa Assistance,4,3676,4,No
+BKG1592,2024-03-16,New,Vacation Package,4,4670,3,Yes
+BKG1593,2024-02-29,New,Resort Stay,1,370,3,Yes
+BKG1594,2024-04-29,VIP Member,Vacation Package,3,4166,4,No
+BKG1595,2024-05-29,New,Flight Booking,1,2568,1,No
+BKG1596,2024-01-24,Returning,Group Travel,3,1490,2,No
+BKG1597,2024-03-10,New,Resort Stay,4,3454,2,Yes
+BKG1598,2024-05-28,New,Vacation Package,1,4235,1,Yes
+BKG1599,2024-02-26,New,Vacation Package,3,3707,4,No
+BKG1600,2024-02-09,New,Travel Insurance,2,2683,2,No
+BKG1601,2024-06-29,New,Vacation Package,3,4173,4,Yes
+BKG1602,2024-05-10,New,Call Center Support,1,3175,4,No
+BKG1603,2024-01-16,New,Call Center Support,2,4006,3,No
+BKG1604,2024-02-25,New,Group Travel,3,389,1,No
+BKG1605,2024-02-22,New,Call Center Support,3,2580,4,No
+BKG1606,2024-03-26,New,Group Travel,3,3352,5,No
+BKG1607,2024-04-16,New,Group Travel,3,378,1,No
+BKG1608,2024-03-18,Returning,Flight Booking,3,3024,2,No
+BKG1609,2024-02-13,Returning,Travel Insurance,2,680,3,Yes
+BKG1610,2024-01-16,New,Visa Assistance,4,353,2,No
+BKG1611,2024-02-22,Returning,Hotel Reservation,2,4376,2,No
+BKG1612,2024-01-15,Returning,Group Travel,2,4876,1,No
+BKG1613,2024-01-24,New,Car Rental,2,924,2,Yes
+BKG1614,2024-06-08,VIP Member,Visa Assistance,4,3932,4,No
+BKG1615,2024-03-10,VIP Member,Resort Stay,1,799,2,No
+BKG1616,2024-02-26,New,Call Center Support,4,1480,3,Yes
+BKG1617,2024-03-16,New,Hotel Reservation,2,3996,3,No
+BKG1618,2024-04-22,VIP Member,Car Rental,3,1773,5,No
+BKG1619,2024-03-18,Returning,Visa Assistance,3,2827,3,Yes
+BKG1620,2024-01-11,New,Flight Booking,2,3256,2,No
+BKG1621,2024-06-18,New,Resort Stay,3,3488,3,No
+BKG1622,2024-02-01,New,Hotel Reservation,2,4407,1,No
+BKG1623,2024-04-06,New,Travel Insurance,3,483,3,Yes
+BKG1624,2024-03-22,Returning,Flight Booking,4,441,4,Yes
+BKG1625,2024-02-16,New,Car Rental,1,2087,1,No
+BKG1626,2024-04-02,New,Hotel Reservation,1,4159,5,Yes
+BKG1627,2024-03-23,Returning,Flight Booking,4,3209,4,No
+BKG1628,2024-01-31,New,Resort Stay,4,4182,2,Yes
+BKG1629,2024-04-27,New,Travel Insurance,2,4615,2,Yes
+BKG1630,2024-05-31,Returning,Flight Booking,2,2898,2,Yes
+BKG1631,2024-03-26,VIP Member,Vacation Package,2,3340,4,No
+BKG1632,2024-02-06,Returning,Travel Insurance,3,2088,4,No
+BKG1633,2024-03-31,Returning,Car Rental,2,3514,4,Yes
+BKG1634,2024-05-29,New,Resort Stay,4,1949,1,Yes
+BKG1635,2024-06-23,New,Call Center Support,1,405,1,Yes
+BKG1636,2024-03-28,Returning,Call Center Support,3,3713,2,No
+BKG1637,2024-04-04,New,Call Center Support,2,2849,3,No
+BKG1638,2024-03-04,New,Hotel Reservation,3,1235,2,No
+BKG1639,2024-03-10,New,Car Rental,3,305,5,No
+BKG1640,2024-01-22,New,Resort Stay,2,4691,1,No
+BKG1641,2024-03-20,New,Travel Insurance,3,3550,4,Yes
+BKG1642,2024-01-21,New,Hotel Reservation,1,3911,1,No
+BKG1643,2024-04-28,New,Car Rental,4,3722,4,Yes
+BKG1644,2024-01-05,New,Vacation Package,4,3699,5,Yes
+BKG1645,2024-05-19,VIP Member,Resort Stay,1,2651,5,No
+BKG1646,2024-05-03,Returning,Call Center Support,3,4408,1,No
+BKG1647,2024-06-16,Returning,Flight Booking,2,409,4,No
+BKG1648,2024-03-03,Returning,Resort Stay,3,2808,5,No
+BKG1649,2024-05-06,New,Group Travel,1,2091,2,No
+BKG1650,2024-03-21,New,Car Rental,3,371,2,Yes
+BKG1651,2024-03-08,Returning,Visa Assistance,4,3742,4,No
+BKG1652,2024-04-12,Returning,Vacation Package,3,4186,1,No
+BKG1653,2024-06-23,Returning,Resort Stay,1,1922,5,No
+BKG1654,2024-02-25,New,Visa Assistance,4,3373,1,No
+BKG1655,2024-03-14,New,Group Travel,3,4638,2,Yes
+BKG1656,2024-01-09,New,Travel Insurance,3,4449,5,No
+BKG1657,2024-01-19,New,Flight Booking,4,620,1,No
+BKG1658,2024-02-06,Returning,Visa Assistance,2,1076,3,Yes
+BKG1659,2024-03-15,Returning,Car Rental,4,3822,4,No
+BKG1660,2024-06-02,New,Call Center Support,2,3651,4,No
+BKG1661,2024-06-22,VIP Member,Group Travel,1,4205,3,No
+BKG1662,2024-06-25,Returning,Flight Booking,1,2873,2,No
+BKG1663,2024-04-15,New,Vacation Package,4,2652,5,Yes
+BKG1664,2024-03-01,New,Call Center Support,4,2932,4,Yes
+BKG1665,2024-04-15,New,Resort Stay,1,4007,3,Yes
+BKG1666,2024-06-21,New,Visa Assistance,2,252,3,No
+BKG1667,2024-05-12,New,Flight Booking,1,3064,2,Yes
+BKG1668,2024-01-03,New,Hotel Reservation,4,3016,2,Yes
+BKG1669,2024-06-14,New,Travel Insurance,1,2900,1,No
+BKG1670,2024-01-19,New,Travel Insurance,4,1852,4,No
+BKG1671,2024-01-23,VIP Member,Group Travel,4,2710,1,No
+BKG1672,2024-03-10,New,Vacation Package,1,3975,3,Yes
+BKG1673,2024-02-22,Returning,Group Travel,2,1204,5,Yes
+BKG1674,2024-06-03,New,Hotel Reservation,3,2636,5,Yes
+BKG1675,2024-01-25,VIP Member,Car Rental,1,4299,2,No
+BKG1676,2024-06-29,New,Vacation Package,3,3954,5,No
+BKG1677,2024-01-19,New,Car Rental,1,3594,5,No
+BKG1678,2024-01-13,VIP Member,Vacation Package,3,2014,5,Yes
+BKG1679,2024-05-16,VIP Member,Vacation Package,2,3172,3,No
+BKG1680,2024-03-09,VIP Member,Hotel Reservation,2,1106,5,Yes
+BKG1681,2024-05-05,New,Resort Stay,1,506,5,Yes
+BKG1682,2024-03-08,New,Hotel Reservation,4,266,5,No
+BKG1683,2024-03-06,Returning,Vacation Package,3,608,1,No
+BKG1684,2024-01-22,VIP Member,Flight Booking,4,1761,3,Yes
+BKG1685,2024-05-11,Returning,Car Rental,4,3764,2,Yes
+BKG1686,2024-03-27,Returning,Hotel Reservation,4,3589,1,No
+BKG1687,2024-05-27,New,Resort Stay,2,4958,4,Yes
+BKG1688,2024-04-03,Returning,Visa Assistance,1,780,3,Yes
+BKG1689,2024-04-06,New,Group Travel,1,2624,3,Yes
+BKG1690,2024-01-14,New,Vacation Package,2,2220,4,Yes
+BKG1691,2024-05-24,New,Visa Assistance,2,4777,4,Yes
+BKG1692,2024-03-15,Returning,Travel Insurance,1,4457,4,No
+BKG1693,2024-06-27,New,Call Center Support,4,1463,2,Yes
+BKG1694,2024-01-08,New,Resort Stay,3,1431,5,No
+BKG1695,2024-05-25,Returning,Call Center Support,3,2392,3,No
+BKG1696,2024-01-01,New,Resort Stay,3,1638,5,No
+BKG1697,2024-03-28,Returning,Flight Booking,4,3508,5,No
+BKG1698,2024-03-09,New,Group Travel,1,660,4,No
+BKG1699,2024-01-21,New,Visa Assistance,2,1199,2,Yes
+BKG1700,2024-05-19,Returning,Car Rental,1,2003,1,No
+BKG1701,2024-01-11,New,Resort Stay,4,274,2,No
+BKG1702,2024-04-02,New,Car Rental,2,2256,5,No
+BKG1703,2024-06-29,New,Group Travel,4,2330,2,No
+BKG1704,2024-05-15,New,Vacation Package,3,4387,4,No
+BKG1705,2024-01-07,VIP Member,Travel Insurance,3,4260,1,No
+BKG1706,2024-01-17,New,Visa Assistance,4,4020,4,Yes
+BKG1707,2024-04-05,VIP Member,Group Travel,2,1597,1,No
+BKG1708,2024-04-10,New,Group Travel,2,3954,5,No
+BKG1709,2024-04-23,Returning,Flight Booking,1,3271,1,No
+BKG1710,2024-06-07,Returning,Call Center Support,3,1667,1,Yes
+BKG1711,2024-05-27,Returning,Travel Insurance,1,1251,1,No
+BKG1712,2024-01-12,New,Visa Assistance,1,468,2,Yes
+BKG1713,2024-04-30,New,Vacation Package,4,142,2,Yes
+BKG1714,2024-02-22,New,Vacation Package,4,2007,5,No
+BKG1715,2024-05-26,VIP Member,Hotel Reservation,1,3590,1,Yes
+BKG1716,2024-02-26,VIP Member,Group Travel,3,2635,3,No
+BKG1717,2024-01-27,VIP Member,Resort Stay,4,4273,5,Yes
+BKG1718,2024-03-09,New,Flight Booking,1,2973,1,No
+BKG1719,2024-03-01,Returning,Travel Insurance,1,1924,1,Yes
+BKG1720,2024-02-29,VIP Member,Vacation Package,1,1393,2,Yes
+BKG1721,2024-04-26,New,Visa Assistance,1,4869,5,Yes
+BKG1722,2024-05-21,New,Hotel Reservation,1,4896,1,Yes
+BKG1723,2024-06-27,Returning,Visa Assistance,1,4954,1,Yes
+BKG1724,2024-04-12,Returning,Flight Booking,4,3486,5,Yes
+BKG1725,2024-01-03,VIP Member,Resort Stay,3,3072,3,No
+BKG1726,2024-04-03,New,Hotel Reservation,1,4022,5,Yes
+BKG1727,2024-01-14,Returning,Hotel Reservation,2,1092,5,No
+BKG1728,2024-01-27,New,Call Center Support,4,2486,3,Yes
+BKG1729,2024-02-26,New,Travel Insurance,4,2340,5,No
+BKG1730,2024-06-27,New,Hotel Reservation,1,1576,1,No
+BKG1731,2024-04-24,VIP Member,Call Center Support,4,3507,5,No
+BKG1732,2024-05-07,Returning,Call Center Support,1,489,3,Yes
+BKG1733,2024-02-15,Returning,Flight Booking,3,1099,4,Yes
+BKG1734,2024-05-25,New,Car Rental,3,4720,5,No
+BKG1735,2024-05-09,VIP Member,Visa Assistance,4,1955,2,Yes
+BKG1736,2024-03-29,New,Resort Stay,4,758,1,Yes
+BKG1737,2024-03-26,VIP Member,Visa Assistance,2,2863,1,Yes
+BKG1738,2024-03-19,New,Hotel Reservation,4,3763,2,Yes
+BKG1739,2024-05-03,New,Resort Stay,2,1581,2,Yes
+BKG1740,2024-02-27,New,Vacation Package,3,3831,5,No
+BKG1741,2024-03-12,New,Car Rental,3,551,2,Yes
+BKG1742,2024-02-06,Returning,Vacation Package,1,2575,4,No
+BKG1743,2024-03-09,Returning,Vacation Package,3,3322,3,Yes
+BKG1744,2024-03-09,New,Travel Insurance,2,1637,2,Yes
+BKG1745,2024-03-29,VIP Member,Visa Assistance,4,3193,2,No
+BKG1746,2024-01-28,New,Flight Booking,1,982,4,Yes
+BKG1747,2024-06-22,Returning,Vacation Package,2,4508,1,No
+BKG1748,2024-03-25,VIP Member,Hotel Reservation,4,4168,1,No
+BKG1749,2024-03-13,Returning,Car Rental,1,2666,5,Yes
+BKG1750,2024-04-27,New,Group Travel,3,3377,4,No
+BKG1751,2024-01-07,VIP Member,Vacation Package,2,474,3,Yes
+BKG1752,2024-04-20,Returning,Car Rental,4,4646,3,No
+BKG1753,2024-03-23,New,Resort Stay,1,3797,4,Yes
+BKG1754,2024-02-21,New,Visa Assistance,1,3162,3,No
+BKG1755,2024-06-18,Returning,Call Center Support,3,4790,1,Yes
+BKG1756,2024-05-26,Returning,Travel Insurance,4,3350,3,No
+BKG1757,2024-04-14,Returning,Car Rental,3,4695,3,No
+BKG1758,2024-01-08,VIP Member,Hotel Reservation,3,4659,4,No
+BKG1759,2024-01-20,Returning,Hotel Reservation,4,212,4,No
+BKG1760,2024-04-10,New,Car Rental,4,3297,3,No
+BKG1761,2024-03-17,New,Hotel Reservation,4,2478,2,No
+BKG1762,2024-06-23,New,Visa Assistance,2,2024,4,Yes
+BKG1763,2024-04-16,Returning,Hotel Reservation,4,239,5,Yes
+BKG1764,2024-06-07,New,Call Center Support,1,1524,5,Yes
+BKG1765,2024-03-19,Returning,Hotel Reservation,3,3049,1,Yes
+BKG1766,2024-04-27,Returning,Call Center Support,2,3268,3,Yes
+BKG1767,2024-06-30,VIP Member,Vacation Package,4,616,2,No
+BKG1768,2024-04-08,New,Flight Booking,2,2716,1,Yes
+BKG1769,2024-02-22,VIP Member,Visa Assistance,4,987,3,No
+BKG1770,2024-03-13,New,Flight Booking,2,3204,4,Yes
+BKG1771,2024-06-19,VIP Member,Vacation Package,3,149,5,Yes
+BKG1772,2024-06-23,New,Visa Assistance,3,4051,2,No
+BKG1773,2024-06-11,New,Car Rental,1,3660,5,No
+BKG1774,2024-06-07,Returning,Car Rental,1,118,4,No
+BKG1775,2024-06-06,New,Call Center Support,4,4921,3,No
+BKG1776,2024-03-03,New,Vacation Package,3,1573,4,Yes
+BKG1777,2024-04-16,Returning,Call Center Support,2,4161,4,No
+BKG1778,2024-06-09,Returning,Travel Insurance,2,2706,5,Yes
+BKG1779,2024-03-20,Returning,Hotel Reservation,2,551,2,Yes
+BKG1780,2024-01-26,Returning,Group Travel,1,3865,4,No
+BKG1781,2024-02-20,Returning,Travel Insurance,2,2538,5,Yes
+BKG1782,2024-02-03,New,Hotel Reservation,1,4410,2,Yes
+BKG1783,2024-04-29,New,Visa Assistance,1,1649,3,No
+BKG1784,2024-01-30,New,Call Center Support,4,3574,3,No
+BKG1785,2024-02-10,VIP Member,Visa Assistance,2,227,1,Yes
+BKG1786,2024-04-16,Returning,Visa Assistance,2,4955,5,Yes
+BKG1787,2024-04-04,New,Hotel Reservation,3,2861,2,Yes
+BKG1788,2024-02-21,New,Vacation Package,4,4556,4,Yes
+BKG1789,2024-04-17,VIP Member,Hotel Reservation,3,4764,3,No
+BKG1790,2024-03-22,New,Resort Stay,4,1515,2,Yes
+BKG1791,2024-02-20,Returning,Car Rental,2,301,5,No
+BKG1792,2024-02-20,Returning,Car Rental,1,2469,1,Yes
+BKG1793,2024-03-22,Returning,Travel Insurance,1,617,3,No
+BKG1794,2024-03-25,New,Car Rental,1,1441,2,Yes
+BKG1795,2024-06-04,VIP Member,Hotel Reservation,1,4876,2,No
+BKG1796,2024-04-06,VIP Member,Call Center Support,1,2088,2,Yes
+BKG1797,2024-04-24,Returning,Hotel Reservation,3,3645,5,No
+BKG1798,2024-04-27,Returning,Hotel Reservation,4,4620,5,Yes
+BKG1799,2024-05-26,VIP Member,Group Travel,2,3902,5,Yes
+BKG1800,2024-01-21,Returning,Call Center Support,3,3375,4,No
+BKG1801,2024-05-11,New,Resort Stay,4,3754,2,No
+BKG1802,2024-06-19,Returning,Car Rental,1,2534,3,No
+BKG1803,2024-04-25,Returning,Call Center Support,4,4973,5,No
+BKG1804,2024-06-12,New,Car Rental,4,307,5,No
+BKG1805,2024-05-19,Returning,Travel Insurance,1,2733,2,Yes
+BKG1806,2024-06-25,VIP Member,Call Center Support,1,4217,5,Yes
+BKG1807,2024-06-24,VIP Member,Car Rental,1,253,4,Yes
+BKG1808,2024-03-25,New,Resort Stay,2,3466,4,No
+BKG1809,2024-01-30,New,Flight Booking,1,4414,5,Yes
+BKG1810,2024-01-10,VIP Member,Visa Assistance,2,4864,2,Yes
+BKG1811,2024-04-10,VIP Member,Visa Assistance,1,1618,2,No
+BKG1812,2024-05-11,New,Resort Stay,2,2700,2,No
+BKG1813,2024-01-16,VIP Member,Group Travel,4,2295,1,Yes
+BKG1814,2024-03-15,VIP Member,Flight Booking,3,4598,5,Yes
+BKG1815,2024-06-19,Returning,Travel Insurance,4,4791,2,Yes
+BKG1816,2024-05-15,Returning,Resort Stay,4,3654,4,Yes
+BKG1817,2024-06-07,New,Visa Assistance,1,2514,3,Yes
+BKG1818,2024-03-30,New,Visa Assistance,2,2949,3,No
+BKG1819,2024-06-05,New,Visa Assistance,3,1842,2,No
+BKG1820,2024-04-18,VIP Member,Vacation Package,1,1406,3,No
+BKG1821,2024-03-13,New,Resort Stay,1,3949,3,Yes
+BKG1822,2024-03-23,New,Hotel Reservation,1,4268,1,No
+BKG1823,2024-05-31,New,Travel Insurance,4,4676,4,Yes
+BKG1824,2024-06-26,Returning,Visa Assistance,2,4755,4,No
+BKG1825,2024-01-14,VIP Member,Car Rental,2,4940,1,No
+BKG1826,2024-03-08,New,Resort Stay,3,4295,1,Yes
+BKG1827,2024-05-27,New,Vacation Package,2,2655,3,Yes
+BKG1828,2024-03-29,Returning,Resort Stay,2,2405,5,No
+BKG1829,2024-04-13,New,Travel Insurance,1,4608,3,Yes
+BKG1830,2024-06-05,New,Vacation Package,1,1188,1,No
+BKG1831,2024-05-27,New,Travel Insurance,4,2742,4,Yes
+BKG1832,2024-05-25,New,Resort Stay,1,1277,3,No
+BKG1833,2024-03-23,New,Hotel Reservation,1,4857,5,Yes
+BKG1834,2024-02-03,New,Travel Insurance,1,3094,3,Yes
+BKG1835,2024-01-26,New,Vacation Package,1,659,2,No
+BKG1836,2024-03-01,VIP Member,Vacation Package,4,3064,3,Yes
+BKG1837,2024-01-16,New,Travel Insurance,1,1371,1,Yes
+BKG1838,2024-03-20,Returning,Resort Stay,3,1913,4,Yes
+BKG1839,2024-03-25,Returning,Group Travel,3,3015,4,Yes
+BKG1840,2024-01-08,New,Resort Stay,3,709,1,Yes
+BKG1841,2024-04-24,Returning,Travel Insurance,3,2561,2,Yes
+BKG1842,2024-03-22,New,Flight Booking,1,4220,1,No
+BKG1843,2024-03-22,VIP Member,Travel Insurance,3,383,3,Yes
+BKG1844,2024-02-07,New,Hotel Reservation,1,3028,1,No
+BKG1845,2024-06-22,New,Travel Insurance,4,4496,1,Yes
+BKG1846,2024-05-07,New,Travel Insurance,3,1191,2,Yes
+BKG1847,2024-02-11,VIP Member,Hotel Reservation,2,916,3,No
+BKG1848,2024-04-11,Returning,Travel Insurance,3,182,5,Yes
+BKG1849,2024-06-03,Returning,Visa Assistance,3,2020,5,No
+BKG1850,2024-06-19,New,Flight Booking,1,3591,4,Yes
+BKG1851,2024-02-25,Returning,Car Rental,3,3244,1,No
+BKG1852,2024-06-20,New,Flight Booking,2,2193,4,No
+BKG1853,2024-03-23,VIP Member,Travel Insurance,1,4813,2,No
+BKG1854,2024-01-15,New,Visa Assistance,1,275,5,No
+BKG1855,2024-04-14,New,Resort Stay,4,2804,1,No
+BKG1856,2024-06-18,New,Travel Insurance,4,469,2,Yes
+BKG1857,2024-04-26,New,Visa Assistance,3,1918,2,Yes
+BKG1858,2024-03-12,Returning,Hotel Reservation,4,2201,1,No
+BKG1859,2024-03-27,New,Visa Assistance,4,4885,2,Yes
+BKG1860,2024-02-29,Returning,Hotel Reservation,4,3590,1,Yes
+BKG1861,2024-01-10,New,Group Travel,1,1879,1,No
+BKG1862,2024-06-25,Returning,Car Rental,1,1464,3,Yes
+BKG1863,2024-02-13,New,Call Center Support,1,4562,4,No
+BKG1864,2024-05-25,New,Visa Assistance,4,3442,2,No
+BKG1865,2024-01-18,Returning,Vacation Package,1,4839,2,No
+BKG1866,2024-01-21,New,Travel Insurance,4,3776,3,No
+BKG1867,2024-03-15,New,Flight Booking,1,2526,3,Yes
+BKG1868,2024-05-12,VIP Member,Call Center Support,1,172,3,Yes
+BKG1869,2024-06-23,VIP Member,Flight Booking,2,3062,5,No
+BKG1870,2024-06-08,New,Group Travel,3,959,5,Yes
+BKG1871,2024-05-04,New,Call Center Support,4,3956,5,No
+BKG1872,2024-03-07,Returning,Call Center Support,2,4238,1,No
+BKG1873,2024-06-02,New,Flight Booking,1,2524,2,No
+BKG1874,2024-02-28,New,Hotel Reservation,4,1164,4,Yes
+BKG1875,2024-06-30,New,Flight Booking,1,2317,1,No
+BKG1876,2024-06-09,Returning,Hotel Reservation,3,4117,2,No
+BKG1877,2024-05-19,Returning,Group Travel,2,2359,2,No
+BKG1878,2024-05-02,New,Travel Insurance,3,3851,3,Yes
+BKG1879,2024-06-21,New,Resort Stay,2,2186,3,No
+BKG1880,2024-05-12,New,Hotel Reservation,1,468,1,No
+BKG1881,2024-06-05,Returning,Group Travel,3,2904,3,No
+BKG1882,2024-05-02,New,Vacation Package,3,250,2,No
+BKG1883,2024-05-31,New,Group Travel,1,1234,3,Yes
+BKG1884,2024-04-08,Returning,Flight Booking,3,2884,5,No
+BKG1885,2024-01-09,New,Flight Booking,4,4264,3,No
+BKG1886,2024-06-27,Returning,Resort Stay,2,2446,2,Yes
+BKG1887,2024-01-07,New,Group Travel,2,4997,1,No
+BKG1888,2024-02-22,New,Car Rental,2,2350,4,No
+BKG1889,2024-01-24,New,Travel Insurance,4,160,3,No
+BKG1890,2024-05-15,Returning,Flight Booking,2,3110,2,No
+BKG1891,2024-06-19,VIP Member,Resort Stay,1,4001,4,No
+BKG1892,2024-04-23,VIP Member,Travel Insurance,3,1437,4,No
+BKG1893,2024-03-12,New,Group Travel,4,1284,5,Yes
+BKG1894,2024-06-22,Returning,Group Travel,2,4526,4,Yes
+BKG1895,2024-02-20,New,Call Center Support,1,1651,2,No
+BKG1896,2024-01-10,New,Resort Stay,3,4533,2,No
+BKG1897,2024-06-11,VIP Member,Flight Booking,3,1729,3,No
+BKG1898,2024-04-30,New,Car Rental,4,1427,3,No
+BKG1899,2024-06-11,New,Group Travel,4,1626,3,Yes
+BKG1900,2024-01-29,New,Car Rental,4,1773,4,No
+BKG1901,2024-03-28,New,Group Travel,1,1461,4,Yes
+BKG1902,2024-05-15,New,Flight Booking,1,1673,5,No
+BKG1903,2024-01-12,Returning,Travel Insurance,4,2786,3,No
+BKG1904,2024-01-12,New,Visa Assistance,2,4470,1,Yes
+BKG1905,2024-03-02,VIP Member,Travel Insurance,3,2466,5,Yes
+BKG1906,2024-06-10,VIP Member,Group Travel,3,3857,1,No
+BKG1907,2024-03-01,New,Visa Assistance,1,2534,4,No
+BKG1908,2024-01-30,New,Visa Assistance,3,2093,5,Yes
+BKG1909,2024-06-25,New,Car Rental,2,969,5,No
+BKG1910,2024-06-03,Returning,Resort Stay,3,1114,2,No
+BKG1911,2024-02-11,New,Car Rental,1,2011,4,No
+BKG1912,2024-05-09,Returning,Car Rental,1,702,4,No
+BKG1913,2024-03-09,New,Travel Insurance,2,3921,5,No
+BKG1914,2024-02-07,Returning,Travel Insurance,2,790,4,No
+BKG1915,2024-06-14,New,Vacation Package,3,593,5,No
+BKG1916,2024-03-08,New,Group Travel,3,589,2,No
+BKG1917,2024-02-12,VIP Member,Vacation Package,1,2656,5,Yes
+BKG1918,2024-04-21,Returning,Flight Booking,2,4585,4,No
+BKG1919,2024-05-08,New,Group Travel,2,394,4,Yes
+BKG1920,2024-06-05,VIP Member,Group Travel,2,4127,5,Yes
+BKG1921,2024-02-08,New,Call Center Support,3,2943,5,Yes
+BKG1922,2024-06-28,VIP Member,Call Center Support,2,3012,5,Yes
+BKG1923,2024-01-17,Returning,Hotel Reservation,1,1817,3,No
+BKG1924,2024-03-25,New,Hotel Reservation,1,2696,4,Yes
+BKG1925,2024-01-18,New,Car Rental,3,4844,4,No
+BKG1926,2024-05-20,New,Flight Booking,4,1973,3,No
+BKG1927,2024-04-20,Returning,Visa Assistance,3,4763,5,No
+BKG1928,2024-01-13,Returning,Visa Assistance,4,3358,2,Yes
+BKG1929,2024-03-23,New,Call Center Support,2,2917,5,No
+BKG1930,2024-05-27,New,Call Center Support,3,544,5,No
+BKG1931,2024-01-19,VIP Member,Call Center Support,1,3741,3,No
+BKG1932,2024-04-01,VIP Member,Resort Stay,2,4558,4,No
+BKG1933,2024-02-24,Returning,Hotel Reservation,1,841,5,No
+BKG1934,2024-04-28,New,Travel Insurance,2,2141,4,No
+BKG1935,2024-06-06,New,Visa Assistance,3,779,1,Yes
+BKG1936,2024-03-13,New,Group Travel,4,2567,4,No
+BKG1937,2024-01-29,VIP Member,Hotel Reservation,2,3797,2,Yes
+BKG1938,2024-03-22,New,Vacation Package,4,1458,2,No
+BKG1939,2024-03-02,Returning,Travel Insurance,2,162,5,Yes
+BKG1940,2024-01-14,New,Hotel Reservation,1,2659,4,Yes
+BKG1941,2024-01-10,Returning,Flight Booking,1,3869,5,No
+BKG1942,2024-06-21,Returning,Group Travel,2,4451,3,No
+BKG1943,2024-03-13,VIP Member,Hotel Reservation,4,234,2,Yes
+BKG1944,2024-05-06,New,Resort Stay,3,3744,5,No
+BKG1945,2024-05-18,New,Call Center Support,3,2235,3,No
+BKG1946,2024-05-15,New,Call Center Support,1,3378,5,Yes
+BKG1947,2024-04-27,VIP Member,Group Travel,3,922,4,No
+BKG1948,2024-04-07,VIP Member,Call Center Support,1,3174,4,Yes
+BKG1949,2024-01-15,Returning,Hotel Reservation,3,3081,4,No
+BKG1950,2024-03-18,Returning,Vacation Package,2,220,4,No
+BKG1951,2024-03-27,Returning,Visa Assistance,1,1737,1,Yes
+BKG1952,2024-05-16,New,Visa Assistance,1,1024,3,No
+BKG1953,2024-01-08,VIP Member,Travel Insurance,2,744,3,Yes
+BKG1954,2024-03-25,New,Car Rental,1,2132,4,No
+BKG1955,2024-05-01,New,Flight Booking,3,2861,1,No
+BKG1956,2024-03-03,Returning,Group Travel,3,2168,4,No
+BKG1957,2024-04-16,New,Travel Insurance,1,341,1,Yes
+BKG1958,2024-04-10,New,Car Rental,3,2768,4,Yes
+BKG1959,2024-02-22,Returning,Resort Stay,4,902,2,Yes
+BKG1960,2024-03-10,New,Resort Stay,1,4264,2,Yes
+BKG1961,2024-02-26,Returning,Flight Booking,2,295,5,No
+BKG1962,2024-02-23,New,Call Center Support,4,2287,4,No
+BKG1963,2024-02-28,New,Hotel Reservation,1,3615,3,No
+BKG1964,2024-03-11,New,Travel Insurance,2,2430,5,No
+BKG1965,2024-04-28,New,Travel Insurance,3,2459,2,No
+BKG1966,2024-03-02,Returning,Group Travel,2,4941,4,No
+BKG1967,2024-01-28,New,Group Travel,4,3706,5,No
+BKG1968,2024-06-21,Returning,Resort Stay,3,376,4,No
+BKG1969,2024-01-01,New,Resort Stay,1,160,2,Yes
+BKG1970,2024-05-05,Returning,Vacation Package,3,3490,5,Yes
+BKG1971,2024-03-10,VIP Member,Vacation Package,1,2013,2,No
+BKG1972,2024-05-16,Returning,Call Center Support,1,4027,1,Yes
+BKG1973,2024-02-25,New,Vacation Package,2,2691,2,Yes
+BKG1974,2024-02-05,New,Hotel Reservation,2,666,4,No
+BKG1975,2024-06-07,New,Hotel Reservation,2,4035,3,No
+BKG1976,2024-05-12,Returning,Travel Insurance,4,1671,2,No
+BKG1977,2024-04-28,New,Visa Assistance,4,4817,3,Yes
+BKG1978,2024-06-30,New,Hotel Reservation,2,1300,1,Yes
+BKG1979,2024-02-25,Returning,Car Rental,4,4509,5,No
+BKG1980,2024-01-17,New,Resort Stay,3,2954,5,No
+BKG1981,2024-05-09,Returning,Group Travel,3,2995,3,No
+BKG1982,2024-06-06,New,Vacation Package,4,1336,5,No
+BKG1983,2024-04-18,New,Travel Insurance,4,236,2,No
+BKG1984,2024-05-06,Returning,Flight Booking,3,1129,3,No
+BKG1985,2024-02-18,New,Group Travel,1,2256,4,Yes
+BKG1986,2024-02-11,Returning,Car Rental,3,2694,2,No
+BKG1987,2024-01-08,New,Vacation Package,3,761,2,No
+BKG1988,2024-06-16,New,Car Rental,4,2572,2,No
+BKG1989,2024-04-03,VIP Member,Resort Stay,3,2777,4,No
+BKG1990,2024-03-07,Returning,Resort Stay,4,2408,1,No
+BKG1991,2024-06-13,Returning,Call Center Support,4,186,5,Yes
+BKG1992,2024-03-25,New,Travel Insurance,2,2612,3,No
+BKG1993,2024-01-22,Returning,Group Travel,3,3042,1,Yes
+BKG1994,2024-03-21,New,Group Travel,1,2873,3,No
+BKG1995,2024-04-12,New,Flight Booking,2,2604,5,Yes
+BKG1996,2024-04-23,VIP Member,Travel Insurance,4,3410,4,Yes
+BKG1997,2024-04-27,New,Car Rental,4,1800,2,No
+BKG1998,2024-04-01,VIP Member,Flight Booking,1,3770,2,No
+BKG1999,2024-06-08,New,Visa Assistance,4,2800,4,No
