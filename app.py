@@ -52,7 +52,8 @@ vip_revenue = filtered_df.loc[filtered_df['CustomerType'] == 'VIP Member', 'Reve
 call_center_rate = filtered_df['HandledByCallCenter'].value_counts(normalize=True).get('Yes', 0) * 100
 
 # KPI Display
-col1, col2, col3, col4, col5, col6 = st.columns(6)
+col1, col2, col3 = st.columns(3)
+col4, col5, col6 = st.columns(3)
 col1.metric("Total Bookings", f"{total_bookings}")
 col2.metric("Total Revenue", f"₦{total_revenue:,.0f}")
 col3.metric("Avg Revenue per Booking", f"₦{avg_revenue:,.0f}")
