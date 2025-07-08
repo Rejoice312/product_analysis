@@ -53,10 +53,11 @@ call_center_rate = filtered_df['HandledByCallCenter'].value_counts(normalize=Tru
 
 # KPI Display
 col1, col2, col3 = st.columns(3)
-col4, col5, col6 = st.columns(3)
 col1.metric("Total Bookings", f"{total_bookings}")
 col2.metric("Total Revenue", f"₦{total_revenue:,.0f}")
 col3.metric("Avg Revenue per Booking", f"₦{avg_revenue:,.0f}")
+
+col4, col5, col6 = st.columns(3)
 col4.metric("Avg Satisfaction", f"{avg_satisfaction:.2f} ⭐")
 col5.metric("VIP Revenue", f"₦{vip_revenue:,.0f}")
 col6.metric("Call Center Handling", f"{call_center_rate:.1f}%")
